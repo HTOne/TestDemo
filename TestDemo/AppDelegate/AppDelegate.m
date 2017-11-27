@@ -17,6 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     NSLog(@"ceshi");
+    NSLog(@"master");
     //初始化window
     [self initWindow];
     
