@@ -20,6 +20,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
     [self setupChildControllers];
     [self setupComposeButton];
     
