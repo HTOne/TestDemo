@@ -7,6 +7,9 @@
 //
 
 #import "AppDelegate+APPService.h"
+#import "CommonMacros.h"
+#import "RootTabBarController.h"
+#import "UtilsMacros.h"
 
 @implementation AppDelegate (APPService)
 

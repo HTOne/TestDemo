@@ -7,6 +7,10 @@
 //
 
 #import "RootTabBarController.h"
+#import "UtilsMacros.h"
+#import "RootViewController.h"
+#import "RootNavigationController.h"
+#import "UIButton+CZAddition.h"
 
 @interface RootTabBarController ()
 

@@ -10,17 +10,17 @@
 #define PrefixHeader_pch
 
 //全局宏
-#import "UtilsMacros.h"
-#import "URLMacros.h"
-#import "ThirdMacros.h"
-#import "CommonMacros.h"
-
-//基础类
-#import "AppDelegate.h"
-#import "AppDelegate+AppService.h"
-#import "RootViewController.h"
-#import "RootTabBarController.h"
-#import "RootNavigationController.h"
+//#import "UtilsMacros.h"
+//#import "URLMacros.h"
+//#import "ThirdMacros.h"
+//#import "CommonMacros.h"
+//
+////基础类
+//#import "AppDelegate.h"
+//#import "AppDelegate+AppService.h"
+//#import "RootViewController.h"
+//#import "RootTabBarController.h"
+//#import "RootNavigationController.h"
 
 //第三方
 

@@ -8,6 +8,7 @@
 
 #import "RootWebViewController.h"
 #import <WebKit/WebKit.h>
+#import "UtilsMacros.h"
 
 
 @interface RootWebViewController ()<WKNavigationDelegate, WKUIDelegate>
